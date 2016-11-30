@@ -1,0 +1,85 @@
+html
+  min-height: 100%
+  position: relative
+  font-size: 100%
+
+body
+  height: 100%
+  overflow-x: hidden
+  font-size: 16px
+  font-family: $font1
+
+@media (max-width: 765px)
+  html
+    font-size: 90%
+
+a
+  text-decoration: none
+  &:hover
+    text-decoration: none
+
+p
+  font-size: 0.9rem
+
+h1
+  font-size: 1.5rem
+  font-family: $font1
+h2,h3,h4,h5,h6
+  font-family: $font1
+h2
+  font-size: 1.3rem
+  font-weight: 700
+h3
+  font-size: 1.3rem
+h4
+  font-size: 1.2rem
+  font-weight: 700
+h5
+  font-size: 1.1rem
+  font-weight: 700
+h6
+  font-size: 0.9rem
+  font-weight: 700
+
+span.muted-text
+  font-size: 0.9rem
+  color: #9c9c9c
+
+span.muted-text-italic
+  font-size: 0.9rem
+  color: #9c9c9c
+  font-style: italic
+
+.small-text
+  font-size: .8rem
+
+
+.second-color-txt
+  color: $secondColor
+
+.brd
+  border: 1px solid red
+.txL
+  text-align: left
+.txR
+  text-align: right
+.txC
+  text-align: center
+.pad0
+  padding: 0
+.mar0
+  margin: 0
+.margTop0
+  margin-top: 0 !important
+.padTop0
+  padding-top: 0 !important
+
+@media (max-width: 900px)
+  .hideMobile900
+    display: none !important
+.Hidden
+  display: none !important
+.floatRight
+  float: right
+.floatLeft
+  float: left

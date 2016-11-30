@@ -1,0 +1,367 @@
+.big-item-menu
+  margin-top: -25px
+  padding: 25px 10px
+  background-color: $main3Color
+  color: #fff
+  position: absolute
+  z-index: 9999
+  width: 100%
+  @include box-shadowDown
+  .inner
+    padding: 5px
+    div
+      padding: 5px
+      background-color: rgb(101, 83, 102)
+
+// Mobile Nav Button
+.navbar-header button i
+  color: #fff
+
+.attr-nav > ul > li > a
+  padding: 28px 15px
+
+ul.cart-list > li.total > .btn
+  border-bottom: solid 1px #cfcfcf !important
+  color: #fff !important
+  padding: 10px 15px
+
+@media (min-width: 1024px)
+  /* Navbar General ------
+  nav
+    &.navbar
+      ul.nav > li > a
+        padding: 30px 15px
+        font-size: 1rem
+      .navbar-brand
+        margin-top: 0
+        img.logo
+          // max-height: 100%
+          width: 250px
+          margin-top: 9px
+      li.dropdown ul.dropdown-menu
+        border-top: solid 5px
+    &.navbar-center .navbar-brand
+      margin: 0 !important
+    &.navbar-brand-top .navbar-brand
+      margin: 10px !important
+    &.navbar-full .navbar-brand
+      position: relative
+      top: -15px
+    &.navbar-sidebar
+      ul.nav, .navbar-brand
+        margin-bottom: 50px
+      ul.nav > li > a
+        padding: 10px 15px
+        font-weight: bold
+    &.navbar
+      &.bootsnav.navbar-transparent.white
+        background-color: rgba(255, 255, 255, 0.3)
+        border-bottom: solid 1px #bbb
+      &.navbar-inverse.bootsnav.navbar-transparent.dark
+        background-color: rgba(0, 0, 0, 0.3)
+        border-bottom: solid 1px #555
+      &.bootsnav.navbar-transparent
+        &.dark
+          background-color: rgba(0, 0, 0, 0.3)
+          border-bottom: solid 1px #555
+        &.white .attr-nav
+          border-left: solid 1px #bbb
+      &.navbar-inverse.bootsnav.navbar-transparent.dark .attr-nav
+        border-left: solid 1px #555
+      &.bootsnav
+        &.navbar-transparent.dark .attr-nav
+          border-left: solid 1px #555
+        &.no-background.white .attr-nav > ul > li > a
+          color: #fff
+        &.navbar-transparent.white
+          .attr-nav > ul > li > a, ul.nav > li > a
+            color: #fff
+        &.no-background.white ul.nav > li > a
+          color: #fff
+        &.navbar-transparent.dark
+          .attr-nav > ul > li > a, ul.nav > li > a
+            color: #eee
+  /* Navbar Center ------
+  /* Navbar Brand Top ------
+  /* Navbar Full ------
+  /* Navbar Sidebar ------
+  /* Navbar Transparent & Fixed ------
+
+@media (max-width:1022px) and (min-width:992px)
+  /* Navbar General ------
+  nav
+    &.navbar
+      .navbar-brand
+        img.logo
+          width: 180px
+          margin-top: 0
+
+
+@media (max-width: 992px)
+  /* Navbar General ------
+  nav.navbar .navbar-brand
+    margin-top: 0
+    position: relative
+    height: 100%
+    img.logo
+      width: 145px
+      max-width: 100%
+      margin-top: 5px
+  .attr-nav > ul > li > a
+    padding: 16px 15px 15px
+  /* Navbar Mobile slide ------
+  nav
+    &.navbar.navbar-mobile ul.nav
+      > li > a
+        padding: 15px 15px
+      ul.dropdown-menu
+        > li > a
+          padding-right: 15px !important
+          padding-top: 15px !important
+          padding-bottom: 15px !important
+        .col-menu
+          .title
+            padding-right: 30px !important
+            padding-top: 13px !important
+            padding-bottom: 13px !important
+          ul.menu-col li a
+            padding-top: 13px !important
+            padding-bottom: 13px !important
+    &.navbar-full .navbar-brand
+      top: 0
+      padding-top: 10px
+  /* Navbar Full ------
+
+// Navbar Inverse
+nav
+  &.navbar.navbar-inverse
+    background-color: #222
+    border-bottom: solid 1px #303030
+    ul.cart-list > li.total
+      > .btn
+        border-bottom: solid 1px #222 !important
+      .pull-right
+        color: #fff
+    &.megamenu ul.dropdown-menu.megamenu-content .content ul.menu-col li a
+      color: #eee
+    ul.nav > li
+      > a
+        color: #eee
+      &.dropdown > a
+        background-color: #222
+    li.dropdown ul.dropdown-menu > li > a
+      color: #999
+    ul.nav .dropdown-menu
+      h1, h2, h3, h4, h5, h6
+        color: #fff
+    .form-control
+      background-color: #333
+      border-color: #303030
+      color: #fff
+    .attr-nav > ul > li
+      > a
+        color: #eee
+      &.dropdown ul.dropdown-menu
+        background-color: #222
+        border-left: solid 1px #303030
+        border-bottom: solid 1px #303030
+        border-right: solid 1px #303030
+    ul.cart-list > li
+      border-bottom: solid 1px #303030
+      color: #eee
+      img
+        border: solid 1px #303030
+      &.total
+        background-color: #333
+    .share ul > li > a
+      background-color: #555
+    .dropdown-tabs
+      .tab-menu
+        border-right: solid 1px #303030
+        > ul > li > a
+          border-bottom: solid 1px #303030
+      .tab-content
+        border-left: solid 1px #303030
+      .tab-menu > ul > li
+        > a
+          &:hover, &:focus
+            background-color: #333 !important
+        &.active > a
+          background-color: #333 !important
+  &.navbar-inverse.navbar-full
+    ul.nav > li > a
+      border: none
+    .navbar-collapse .wrap-full-menu
+      background-color: #222
+    .navbar-toggle
+      background-color: #222 !important
+      color: #6f6f6f
+
+@media (min-width: 1024px)
+  nav.navbar.navbar-inverse
+    ul.nav .dropdown-menu
+      background-color: #222 !important
+      border-left: solid 1px #303030 !important
+      border-bottom: solid 1px #303030 !important
+      border-right: solid 1px #303030 !important
+    li.dropdown ul.dropdown-menu > li > a
+      border-bottom: solid 1px #303030
+    ul.dropdown-menu.megamenu-content .col-menu
+      border-left: solid 1px #303030
+      border-right: solid 1px #303030
+    &.navbar-transparent.dark
+      background-color: rgba(0, 0, 0, 0.3)
+      border-bottom: solid 1px #999
+      .attr-nav
+        border-left: solid 1px #999
+    &.no-background.white .attr-nav > ul > li > a
+      color: #fff
+    &.navbar-transparent.dark
+      .attr-nav > ul > li > a, ul.nav > li > a
+        color: #fff
+    &.no-background
+      &.white ul.nav > li > a
+        color: #fff
+      &.dark
+        .attr-nav > ul > li > a, ul.nav > li > a
+          color: #3f3f3f
+
+@media (max-width: 992px)
+  nav.navbar.navbar-inverse
+    .navbar-toggle
+      color: #eee
+      background-color: #222 !important
+    .navbar-nav > li > a
+      border-top: solid 1px #303030
+      border-bottom: solid 1px #303030
+    ul.nav li.dropdown ul.dropdown-menu > li > a
+      color: #999
+      border-bottom: solid 1px #303030
+    .dropdown .megamenu-content .col-menu
+      .title
+        border-bottom: solid 1px #303030
+        color: #eee
+      ul > li > a
+        border-bottom: solid 1px #303030
+        color: #999 !important
+      &.on:last-child .title
+        border-bottom: solid 1px #303030
+    .dropdown-tabs .tab-menu > ul
+      border-top: solid 1px #303030
+    &.navbar-mobile .navbar-collapse
+      background-color: #222
+
+@media (max-width: 767px)
+  nav.navbar.navbar-inverse.navbar-mobile ul.nav
+    border-top: solid 1px #222
+
+nav.navbar.bootsnav
+  background-color: $mainColor
+  ul.nav > li > a
+    color: #fff
+  .navbar-toggle
+    background-color: transparent
+
+
+//Color
+nav.navbar.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:hover
+  color: $secondColor
+
+.side .widget ul.link li a
+  &:hover, &:focus
+    color: $secondColor
+
+.check-list li:before, ul.cart-list > li > h6 > a
+  color: $secondColor
+
+.attr-nav > ul > li > a
+  &:hover, &:focus
+    color: $secondColor
+
+nav
+  &.navbar-sidebar
+    ul.nav li.dropdown.on > a, .dropdown .megamenu-content .col-menu.on .title, ul.nav li.dropdown ul.dropdown-menu li a:hover
+      color: #fff
+  &.navbar
+    ul.nav li.dropdown.on > a, &.navbar-inverse ul.nav li.dropdown.on > a
+      color: #fff
+  &.navbar-sidebar ul.nav li.dropdown.on ul.dropdown-menu li.dropdown.on > a
+    color: $secondColor
+  &.navbar
+    .dropdown .megamenu-content .col-menu.on .title
+      color: $secondColor
+    ul.nav
+      > li > a:hover, li.active > a
+        color: #fff
+    li.dropdown ul.dropdown-menu > li a:hover
+      color: #fff
+    // Hover text Color Cuando tiene dropdown
+    &.navbar-transparent ul.nav > li > a:hover, &.no-background ul.nav > li > a:hover, ul.nav li.scroll.active > a, &.navbar-dark ul.nav li.dropdown ul.dropdown-menu > li > a:hover, ul.nav li.dropdown.on > a
+      color: #ffff
+  &.navbar-dark ul.nav li.dropdown.on > a
+    color: $secondColor
+
+@media (max-width: 920px)
+  nav.navbar
+    .dropdown .megamenu-content .col-menu ul > li > a:hover, &.navbar-dark .dropdown .megamenu-content .col-menu .title:hover
+      color: $secondColor !important
+
+
+//Border
+ul.cart-list > li.total > .btn
+  border-color: $secondColor
+
+nav.navbar li.dropdown ul.dropdown-menu
+  border-top-color: $secondColor !important
+
+// Background
+ul.cart-list > li.total > .btn, .attr-nav > ul > li > a span.badge
+  background-color: $secondColor
+
+nav.navbar .share ul > li > a
+  &:hover, &:focus
+    background-color: $secondColor
+
+ul.cart-list > li.total > .btn
+  &:hover, &:focus
+    background-color: $secondColor !important
+
+// Hover Menu LI
+.dropdown-menu
+  border: 0 !important
+  li
+    border: 0
+    &:hover
+      border-top: 4px solid  $secondColor !important
+      background-color: rgba($secondColor,.7)
+      color: #fff
+
+.nav > li
+  &:hover
+    background-color: $secondColor
+    // border-bottom: 1px solid $secondColor
+    a
+      color: $mainColor
+
+.active
+  background-color: $secondColor
+  border: 0
+  border-bottom: 1px solid $secondColor
+
+.navbar
+  border: none
+  border-bottom: 5px solid $main2Color
+  @include box-shadowDown
+
+.navbar-brand
+  padding: 8px 15px
+
+nav.navbar.bootsnav ul.nav > li > a
+  font-family: $font1
+  font-weight: 400
+  font-size: 1.2rem
+
+nav.navbar.bootsnav li.dropdown ul.dropdown-menu > li > a
+  font-family: $font1
+  font-weight: 400
+  font-size: .9rem

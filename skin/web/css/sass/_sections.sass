@@ -1,0 +1,227 @@
+///////////////////////////////////////////
+//                                       //
+//              HOME                     //
+//                                       //
+///////////////////////////////////////////
+
+
+
+
+.flexslider
+  background: none
+  border: none
+  box-shadow: none
+  margin: 0px
+  margin-top: -20px
+  .slides img
+    height: 300px
+  .flex-direction-nav a
+    height: 48px
+
+.home-image
+  margin-top: -20px
+  img
+    max-height: 300px
+    width: 100%
+    max-width: 100%
+
+.subscribe
+  @include flex-center
+  .logo-subsc
+    width: 50px
+    margin-right: 20px
+  span
+    font-size: 1.5rem
+  input
+    background-color: transparent
+    border: 1px solid #ccc
+    color: #fff
+    border-radius: 0
+    width: 250px
+    max-width: 100%
+    height: 50px
+  button
+    margin-left: 0
+    border-radius: 0
+    height: 50px
+    margin-left: -5px
+
+@media (max-width: 1180px)
+  .subscribe
+    display: block
+    text-align: center
+
+    input
+      width: 100%
+
+/// Bottom
+.bottom-section
+  padding: 20px 10px
+  margin-bottom: 25px
+  form
+    input
+      border-radius: 0
+  textarea
+    border-radius: 0
+  button
+    border-radius: 0
+    width: 150px
+    height: 42px
+  h1
+    margin-bottom: 20px
+
+.other_links
+  text-align: center
+  a
+    color: #000
+    font-family: $font1
+  img
+    width: 150px
+    margin-bottom: 10px
+  .img
+    float: left
+    img
+      margin-right: 10px
+      width: 80px
+  .inner
+    padding: 15px 5px
+    min-height: 192px
+    @include flex-center
+    @include transition(0.4s)
+    &:hover
+      background-color: $secondColor
+      p
+        color: #fff
+
+
+
+
+
+
+///////////////////////////////////////////
+//                                       //
+//              SIDEBAR                  //
+//                                       //
+///////////////////////////////////////////
+
+.side-bar
+  padding-left: 25px
+  // padding-top: 15px
+  margin-bottom: 20px
+
+@media (max-width: 765px)
+  .side-bar
+    padding-left: 10px
+    padding-right: 10px
+
+
+.side-bar-item-2
+  background-color: $secondColor
+  color: #fff
+  padding: 15px
+  p.inner-text
+    font-size: .8rem
+  p.inner-text-2
+    font-size: 1rem
+    font-weight: 700
+
+///////////////////////////////////////////
+//                                       //
+//              NEWS                     //
+//                                       //
+///////////////////////////////////////////
+
+.news-item-a
+  background-color: #fcfcfc
+  // border-left: 4px solid #eeeaea
+  padding: 20px
+  @include box-shadowSoft
+  margin-top: 10px
+  margin-bottom: 20px
+  img
+    float: left
+    width: 150px
+    max-width: 100%
+    margin-right: 10px
+  p
+    text-align: justify
+  .titles
+    margin-bottom: 5px
+    h2
+      margin: 0
+      margin-bottom: 10px
+    span
+      font-size: 1.05rem
+  .news-btn
+    text-align: right
+
+.news-item-b
+  background-color: #fcfcfc
+  padding: 20px
+  @include box-shadowSoft
+  margin-top: 10px
+  margin-bottom: 20px
+  img
+    width: 100%
+    max-width: 100%
+    margin-bottom: 15px
+  .titles
+    margin-bottom: 5px
+    h2
+      margin: 0
+    span
+      font-size: 1.05rem
+  p
+    text-align: justify
+  .news-btn
+    text-align: right
+
+.news-item-full
+  padding: 20px
+  margin-top: 10px
+  margin-bottom: 20px
+  img
+    width: 100%
+    max-width: 100%
+    margin-bottom: 15px
+  .titles
+    margin-bottom: 5px
+    h2
+      margin: 0
+    span
+      font-size: 1.05rem
+  p
+    text-align: justify
+    // img
+    //   float: left
+    //   width: 150px
+    //   max-width: 100%
+    //   margin-right: 15px
+    //   margin-top: 5px
+
+///////////////////////////////////////////
+//                                       //
+//              FOOTER                   //
+//                                       //
+///////////////////////////////////////////
+
+.footer-section
+  background-color: $main2Color
+  padding: 25px 5px
+  color: #fff
+
+
+footer
+  position: absolute
+  bottom: 0
+  margin: 0
+  padding: 18px
+  width: 100%
+  text-align: center
+  font-size: 0.8rem
+  color: #fff
+  background-color: $mainColor
+  a
+    color: #bcabab
+    &:hover
+      color: #a89d9d

@@ -1,0 +1,396 @@
+@import url('https://fonts.googleapis.com/css?family=Maitree:300,400,500')
+
+$font1: 'Maitree', serif
+// Font-Weight: 400 700
+
+///////////////////////////////////////////
+//                                       //
+//                COLORS                 //
+//                                       //
+///////////////////////////////////////////
+
+$mainColor: rgba(#474f6e, 1)
+$main2Color: #3b3f58
+$main3Color: #3a3f53
+$secondColor: #A3C1C8
+$second2Color: rgba(#b6d5db, 0.1)
+$blueDetails: #01A1DD
+
+///////////////////////////////////////////
+//                                       //
+//             CONTAINERS                //
+//                                       //
+///////////////////////////////////////////
+
+.wrapper
+  padding-bottom: 50px
+  height: 94%
+
+
+.blue-back-c
+  background-color: $mainColor
+  color: #fff
+  .inner
+    padding: 20px 10px
+    margin-top: 15px
+    margin-bottom: 15px
+
+.main-row
+  margin-top: 25px
+  // margin-bottom: 25px
+  padding-left: 10px
+  padding-right: 10px
+
+.home-content-row
+  padding-right: 25px
+  margin-bottom: 20px
+  h2
+    font-family: $font1
+
+.contTitleCenter
+  padding: 15px
+  text-align: center
+  margin-top: 15px
+  margin-bottom: 15px
+
+.contTitleCenterColor
+  padding: 15px
+  text-align: center
+
+.innerCotainerCentered
+  padding: 25px 10px
+  text-align: center
+
+.transContainerW
+  background-color:  rgba(250, 250, 250, 0.56)
+  padding: 15px
+
+.transContainerB
+  background-color:  rgba(0, 0, 0, 0.47)
+  padding: 15px
+
+// Same Height Img and Txt
+
+.twoColTxtImg
+  display: -webkit-box
+  display: -ms-flexbox
+  display: flex
+  flex-grow: 1
+  align-items: stretch
+  justify-content: center
+
+.tcTILeft
+  background-position: center center
+  background-repeat: no-repeat
+  background-size: cover
+
+.imgSide
+  min-width: 150px
+
+.tcTIright
+  text-align: left
+  background-color: #fff
+  padding: 40px
+  p
+    color: #000
+    font-size: 18px
+
+@media (max-width: 765px)
+  .twoColTxtImg
+    display: block
+  .imgSide
+    min-height: 250px
+
+.textRoundList
+  text-align: center
+  padding-top: 25px
+  padding-bottom: 25px
+  ul
+    padding-left: 0
+    li
+      display: inline-block
+      list-style: none
+      width: 200px
+      height: 200px
+      margin: 8px
+      vertical-align: middle
+      @include border-radius(100%)
+      span
+        min-height: 175px
+        padding-top: 20px
+        display: -webkit-box
+        display: -ms-flexbox
+        display: flex
+        -webkit-box-align: center
+        -ms-flex-align: center
+        -ms-grid-row-align: center
+        align-items: center
+        -webkit-box-pack: center
+        -ms-flex-pack: center
+        justify-content: center
+        -webkit-box-orient: vertical
+        -webkit-box-direction: normal
+        -ms-flex-direction: column
+        flex-direction: column
+
+.blueCircleBrd ul li
+  background-color: rgb(149, 209, 229)
+  border: 10px solid rgb(213, 234, 238)
+  color: #fff
+
+.whiteCircleBrd ul li
+  background-color: rgba(#ffffff, 0.66)
+  border: 10px solid rgba(190, 190, 190, 0.31)
+  @include box-shadowSoft
+  color: #fff
+
+.textRoundListSmall
+  ul
+    padding-left: 0
+    li
+      width: 150px
+      height: 150px
+      span
+        min-height: 120px
+
+.orangeCircleBrd ul li
+  background-color: rgb(237, 197, 175)
+  border: 10px solid rgb(246, 226, 215)
+  @include box-shadowSoft
+  color: #fff
+
+.right-brd-item
+  border-right: 1px solid red
+
+.img-text-above-item
+  margin-top: 20px
+  margin-bottom: 20px
+  img
+    margin-bottom: 10px
+
+.main-titles
+  background-color: #e5e5ec
+  color: #383838
+  padding: 2px 20px 5px
+  border-bottom: 2px solid $main2Color
+  margin-bottom: 20px
+  @include box-shadowSoftDown
+
+///////////////////////////////////////////
+//                                       //
+//               BUTTONS                 //
+//                                       //
+///////////////////////////////////////////
+
+.btnMain
+  background-color: rgb(138, 107, 177)
+  color: #fff
+  @include transition(0.5s)
+  &:hover
+    background-color: rgb(176, 152, 207)
+    color: #fff
+
+
+.hollowBtn
+  background-color: transparent
+  border: 1px solid black
+  @include border-radius(0)
+  @include transition(0.2s)
+  color: #000
+  .fa
+    color: #433f50
+  &:hover
+    @include box-shadowDown
+    background-color: $mainColor
+    color: #fff
+    .fa
+      color: #f4f4f4
+
+.btn-mod-1
+
+///////////////////////////////////////////
+//                                       //
+//              DIVIDERS                 //
+//                                       //
+///////////////////////////////////////////
+
+.left-divider
+  width: 250px
+  border-bottom: 2px solid $mainColor
+  height: 2px
+  margin-bottom: 15px
+
+
+
+///////////////////////////////////////////
+//                                       //
+//             OVERLAYS                  //
+//                                       //
+///////////////////////////////////////////
+
+
+///////////////////////////////////////////
+//                                       //
+//                ITEMS                  //
+//                                       //
+///////////////////////////////////////////
+
+.roundItemsContainer
+  text-align: center
+  padding: 40px 10px
+  .row
+    margin-left: 0
+    margin-right: 0
+  .roundItem
+    margin-top: 10px
+    margin-bottom: 10px
+    img
+      max-width: 250px
+      border-radius: 100%
+      @include transition(0.2s)
+      &:hover
+        cursor: pointer
+        @include box-shadowDown
+  .roundItemInner
+    margin-top: 50px
+    margin-bottom: 50px
+    display: -webkit-box
+    display: -ms-flexbox
+    display: flex
+    -webkit-box-align: center
+    -ms-flex-align: center
+    -ms-grid-row-align: center
+    align-items: center
+    -webkit-box-pack: center
+    -ms-flex-pack: center
+    justify-content: center
+    flex-wrap: wrap
+
+
+
+///////////////////////////////////////////
+//                                       //
+//               VARIOUS                 //
+//                                       //
+///////////////////////////////////////////
+
+
+.img-text-item
+  margin-bottom: 15px
+  max-width: 600px
+  h4
+    margin-top: 0
+  img
+    float: left
+    margin-right: 10px
+    width: 150px
+    height: 130px
+    max-width: 100%
+  hr
+    margin-top: 0
+    margin-bottom: 10px
+    border-top: 2px solid $mainColor
+  p.inner-text
+    font-size: .9rem
+    margin-bottom: 0
+
+.small-icon
+  font-size: .6rem
+
+
+///////////////////////////////////////////
+//                                       //
+//               LISTS                   //
+//                                       //
+///////////////////////////////////////////
+
+
+.horizontal-list
+  ul
+    padding-left: 0
+    li
+      display: inline-block
+      list-style: none
+
+.vertical-list
+  ul
+    padding-left: 0
+    li
+      display: block
+      list-style: none
+
+
+///////////////////////////////////////////
+//                                       //
+//               FLEXBOX                 //
+//                                       //
+///////////////////////////////////////////
+
+.flexCentVert
+  display: -webkit-box
+  display: -ms-flexbox
+  display: flex
+  -webkit-box-align: center
+  -ms-flex-align: center
+  -ms-grid-row-align: center
+  align-items: center
+  -webkit-box-pack: center
+  -ms-flex-pack: center
+  align-self: center
+  align-content: center
+
+.flexSameH
+  display: flex
+  flex-wrap: wrap
+
+.flexEqual
+  display: -webkit-box
+  display: -ms-flexbox
+  display: flex
+  height: auto
+
+.flexW
+  display: -webkit-box
+  display: -ms-flexbox
+  display: flex
+  -ms-flex-wrap: wrap
+  flex-wrap: wrap
+  align-items: center
+
+.flex-column
+  display: -webkit-box
+  display: -ms-flexbox
+  display: flex
+  -webkit-box-align: center
+  -ms-flex-align: center
+  -ms-grid-row-align: center
+  align-items: center
+  -webkit-box-pack: center
+  -ms-flex-pack: center
+  justify-content: center
+  -webkit-box-orient: vertical
+  -webkit-box-direction: normal
+  -ms-flex-direction: column
+  flex-direction: column
+
+.flexCenter
+  display: -webkit-box
+  display: -ms-flexbox
+  display: flex
+  -webkit-box-align: center
+  -ms-flex-align: center
+  -ms-grid-row-align: center
+  align-items: center
+  -webkit-box-pack: center
+  -ms-flex-pack: center
+  justify-content: center
+
+///////////////////////////////////////////
+//                                       //
+//               FORM                    //
+//                                       //
+///////////////////////////////////////////
+
+.form-control
+  border-radius: 0
+  box-shadow: none
