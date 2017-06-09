@@ -322,6 +322,18 @@
   border-radius: 0;
   box-shadow: none; }
 
+.center-form {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -ms-grid-row-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center; }
+
 html {
   min-height: 100%;
   position: relative;
@@ -378,6 +390,9 @@ span.muted-text-italic {
   font-size: 0.9rem;
   color: #9c9c9c;
   font-style: italic; }
+
+.justify {
+  text-align: justify; }
 
 .small-text {
   font-size: 0.8rem; }
@@ -870,7 +885,7 @@ nav.navbar.bootsnav li.dropdown ul.dropdown-menu > li > a {
     max-width: 100%;
     margin-right: 10px; }
   .news-item-a p {
-    text-align: justify; }
+    text-align: left; }
   .news-item-a .titles {
     margin-bottom: 5px; }
     .news-item-a .titles h2 {
@@ -880,6 +895,8 @@ nav.navbar.bootsnav li.dropdown ul.dropdown-menu > li > a {
       font-size: 1.05rem; }
   .news-item-a .news-btn {
     text-align: right; }
+  .news-item-a .small {
+    font-size: 0.9rem; }
 
 .news-item-b {
   background-color: #fcfcfc;
@@ -899,10 +916,10 @@ nav.navbar.bootsnav li.dropdown ul.dropdown-menu > li > a {
       margin: 0; }
     .news-item-b .titles span {
       font-size: 1.05rem; }
-  .news-item-b p {
-    text-align: justify; }
   .news-item-b .news-btn {
     text-align: right; }
+  .news-item-b .small {
+    font-size: 0.9rem; }
 
 .news-item-full {
   padding: 20px;
@@ -918,8 +935,6 @@ nav.navbar.bootsnav li.dropdown ul.dropdown-menu > li > a {
       margin: 0; }
     .news-item-full .titles span {
       font-size: 1.05rem; }
-  .news-item-full p {
-    text-align: justify; }
 
 .footer-section {
   background-color: #3b3f58;
