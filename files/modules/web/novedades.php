@@ -22,20 +22,19 @@
 							<h2>Novedades</h2>
 						</div>
 						<!-- News Version A -->
-						<!-- <div class="news-item-a">
-
-							<img src="../../../skin/web/images/body/news/news.jpg" alt="" />
-							<div class="titles">
-								<h2>Esto es el T&iacute;tulo del art&iacute;culo</h2>
-								<span>Esto es el SubT&iacute;tulo del art&iacute;culo</span>
-							</div>
-							<p>
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore euolore eu fugiat nulla...
-							</p>
-							<div class="news-btn">
-								<a href="novedades-articulo.php"><button type="button" class="btn hollowBtn" name="button"><i class="fa fa-book"></i> Leer Art&iacute;culo completo</button></a>
-							</div>
-						</div> -->
+						<!-- <div class="news-item-a">-->
+						<!--	<img src="../../../skin/web/images/body/news/news.jpg" alt="" />-->
+						<!--	<div class="titles">-->
+						<!--		<h2>Esto es el T&iacute;tulo del art&iacute;culo</h2>-->
+						<!--		<span>Esto es el SubT&iacute;tulo del art&iacute;culo</span>-->
+						<!--	</div>-->
+						<!--	<p>-->
+						<!--		Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore euolore eu fugiat nulla...-->
+						<!--	</p>-->
+						<!--	<div class="news-btn">-->
+						<!--		<a href="novedades-articulo.php"><button type="button" class="btn hollowBtn" name="button"><i class="fa fa-book"></i> Leer Art&iacute;culo completo</button></a>-->
+						<!--	</div>-->
+						<!--</div>-->
 						<!-- /News Version A -->
 
 

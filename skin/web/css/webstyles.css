@@ -11,6 +11,12 @@
     margin-top: 15px;
     margin-bottom: 15px; }
 
+.ad-div {
+  border:1px #CCC solid;
+  padding:5px;
+  cursor:pointer;
+}
+
 .main-row {
   margin-top: 25px;
   padding-left: 10px;

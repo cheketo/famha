@@ -11,25 +11,6 @@
 	<header>
 		<?php include ('../../../files/includes/inc.web.nav.php'); ?>
 	</header>
-	<!-- Slider -->
-	<!-- <div class="slider">
-		<div class="flexslider">
-		  <ul class="slides">
-		    <li>
-		      <img src="../../../skin/web/images/body/slider1.jpg" />
-		    </li>
-		    <li>
-		      <img src="../../../skin/web/images/body/slider1.jpg" />
-		    </li>
-		    <li>
-		      <img src="../../../skin/web/images/body/slider1.jpg" />
-		    </li>
-		    <li>
-		      <img src="../../../skin/web/images/body/slider1.jpg" />
-		    </li>
-		  </ul>
-		</div>
-	</div> -->
 
 	<?php include('../../../files/includes/inc.web.headsection.php'); ?><!-- Head Image Under Nav -->
 	<div class="wrapper">
@@ -42,26 +23,39 @@
 					<p>
 						Los prop&oacute;sitos de la Federaci&oacute;n son: Nuclear a las instituciones vinculadas a la investigaci&oacute;n, docencia y difusi&oacute;n de la Doctrina M&eacute;dica Homeop&aacute;tica, brindar a sus asociados la m&aacute;s completa y actualizada comunicaci&oacute;n de los estudios y progresos cient&iacute;fico-terap&eacute;uticos en el campo de la Medicina homeop&aacute;tica y favorecer la implementaci&oacute;n de las actividades de sus afiliadas.
 					</p>
-					<p>
-						<b>Personer&iacute;a Jur&iacute;dica Nro.: 001477/95</b>
-					</p>
+					<!--<p>-->
+					<!--	<b>Personer&iacute;a Jur&iacute;dica Nro.: 001477/95</b>-->
+					<!--</p>-->
 					</div>
 					<hr>
-					<div class="row home-content-row">
-						<h2>PR&Oacute;XIMOS CONGRESOS</h2>
-						<img src="../../../skin/web/images/body/pictures/congreso.jpg" alt="" class="img-responsive" />
-					</div>
+					<!--<div class="row home-content-row">-->
+					<!--	<h2>PR&Oacute;XIMOS CONGRESOS</h2>-->
+					<!--	<img src="../../../skin/web/images/body/pictures/congreso.jpg" alt="" class="img-responsive" />-->
+					<!--</div>-->
 					<div class="row">
-
-						<h4>Pr&oacute;ximo Congreso F.A.M.H.A. </h4>
-						<h4 class="second-color-txt">12&deg; Congreso FAMHA 2018</h4>
-						<h4 class="second-color-txt">"Homeopatía, la medicina del nuevo paradigma"</h4>
-						<div class="left-divider"></div>
-						<p>
-							<b> Fecha a designar próximamente.</b>
-						</p>
+						<div class="col-sm-8 col-xs-12">
+							<div class="row">
+								<h4>Pr&oacute;ximo Congreso F.A.M.H.A. </h4>
+								<img src="../../../skin/web/images/logos/logo_congreso_famha.jpg" alt="Congreso FAMHA" class="img-responsive" style="height:25em;" />
+								<!--<h4 class="second-color-txt">12&deg; Congreso FAMHA 2018</h4>-->
+								<!--<h4 class="second-color-txt">"Homeopatía, la medicina del nuevo paradigma"</h4>-->
+								<p>
+									<b> Del 24 al 27 de Octubre de 2018</b>
+								</p>
+								<div class="left-divider"></div>
+								<a href="http://www.amha.org.ar/files/modules/web/formulario_congreso.php" target="_blank" class="btn btn-primary">Ver m&aacute;s</a>
+							</div>
+						</div>
+						<div class="col-sm-4 col-xs-12 txC">
+							<h4>Auspiciantes</h4>
+							<div class="ad-div">
+								<a href="https://www.facebook.com/farmacias.vassallo/" target="_blank"><img src="../../../skin/web/images/body/ads/bannervassallo.jpg" class="img-responsive" style="height:17em;" /></a>
+							</div>
+						</div>
 					</div>
-					<hr>
+					
+					<br>
+					<!--<hr>-->
 				<!-- //////// END CONTENT  //////// -->
 				</div><!-- /.col-md-7 -->
 				<!-- SIDEBAR-1 (has col-md-5 inside) -->
@@ -71,6 +65,25 @@
 			</div><!-- row -->
 			<!-- container -->
 		</div>
+		<!-- Slider -->
+	<!-- <div class="slider">-->
+	<!--	<div class="flexslider">-->
+	<!--	  <ul class="slides">-->
+	<!--	    <li>-->
+	<!--	      <img src="../../../skin/web/images/body/pictures/congreso.jpg" />-->
+	<!--	    </li>-->
+	<!--	    <li>-->
+	<!--	      <img src="../../../skin/web/images/body/pictures/congreso.jpg" />-->
+	<!--	    </li>-->
+	<!--	    <li>-->
+	<!--	      <img src="../../../skin/web/images/body/pictures/congreso.jpg" />-->
+	<!--	    </li>-->
+	<!--	    <li>-->
+	<!--	      <img src="../../../skin/web/images/body/pictures/congreso.jpg" />-->
+	<!--	    </li>-->
+	<!--	  </ul>-->
+	<!--	</div>-->
+	<!--</div>-->
 		<div class="container-fluid blue-back-c">
 			<div class="container">
 				<div class="row inner subscribe">

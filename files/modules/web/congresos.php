@@ -21,13 +21,33 @@
 						<div class="main-titles">
 							<h2>PR&Oacute;XIMOS CONGRESOS</h2>
 						</div>
-						<p>
-							<b>72&deg; Congreso de la Liga Médica Homeopática Internacional</b><br>
-							14 a 17 de junio de 2017, en Leipzig, Alemania<br><br>
-							<b>Para m&aacute;s informaci&oacute;n: </b><br>
-							<a href="http://www.lmhi-congress-2017.de/" target="_blank">http://www.lmhi-congress-2017.de/</a><br>
-						</p>
-						<hr>
+						<div class="news-item-a">
+							<img src="../../../skin/web/images/logos/logo_congreso_famha.jpg" alt="" />
+							<div class="titles">
+								<h2>12&deg; Congreso FAMHA - Homeopat&iacute;a, paradigma del SXXI</h2>
+								<span>Tenemos el agrado de invitarlo a participar del próximo 12&deg; Congreso FAMHA que se realizar&aacute; del 24 al 27 de Octubre de 2018</span>
+							</div>
+							<p>
+								El congreso est&aacute; dirigido a todos los home&oacute;patas y alumnos de las diferentes escuelas de Homeopat&iacute;a. Para poder participar, deber&aacute; inscribirse previamente. ¡Inscribi&eacute;ndose antes del 31 de Julio accede a grandes descuentos!
+							</p>
+							<div class="news-btn">
+								<a href="novedades-articulo.php"><button type="button" class="btn hollowBtn" name="button"><i class="fa fa-plus-circle"></i> Ver m&aacute;s</button></a>
+							</div>
+						</div>
+						
+						<!--<p>-->
+						<!--	<b>12&deg; Congreso FAMHA - Homeopat&iacute;a, paradigma del SXXI</b><br>-->
+						<!--	Del 24 al 27 de Octubre del 2018, en CABA, Argentina<br><br>-->
+						<!--	<b>Para m&aacute;s informaci&oacute;n: </b><br>-->
+						<!--	<a href="http://www.amha.org.ar/files/modules/web/formulario_congreso.php" target="_blank" class="btn btn-primary">Ver m&aacute;s informaci&oacute;n</a>-->
+						<!--</p>-->
+						<!--<hr>-->
+						<!--<p>-->
+						<!--	<b>72&deg; Congreso de la Liga Médica Homeopática Internacional</b><br>-->
+						<!--	14 a 17 de junio de 2017, en Leipzig, Alemania<br><br>-->
+						<!--	<b>Para m&aacute;s informaci&oacute;n: </b><br>-->
+						<!--	<a href="http://www.lmhi-congress-2017.de/" target="_blank">http://www.lmhi-congress-2017.de/</a><br>-->
+						<!--</p>-->
 					</div>
 				<!-- //////// END CONTENT  //////// -->
 				</div><!-- /.col-md-7 -->
