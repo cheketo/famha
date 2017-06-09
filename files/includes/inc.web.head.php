@@ -1,6 +1,6 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Famha</title>
+<title>F.A.M.H.A.</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="Los propósitos de la Federación son: Nuclear a las instituciones vinculadas a la investigación, docencia y difusión de la Doctrina Médica Homeopática" />
 <meta name="keywords" content="" />
