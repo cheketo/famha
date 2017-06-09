@@ -31,7 +31,7 @@
 								El congreso est&aacute; dirigido a todos los home&oacute;patas y alumnos de las diferentes escuelas de Homeopat&iacute;a. Para poder participar, deber&aacute; inscribirse previamente. ¡Inscribi&eacute;ndose antes del 31 de Julio accede a grandes descuentos!
 							</p>
 							<div class="news-btn">
-								<a href="novedades-articulo.php"><button type="button" class="btn hollowBtn" name="button"><i class="fa fa-plus-circle"></i> Ver m&aacute;s</button></a>
+								<a href="http://www.amha.org.ar/files/modules/web/formulario_congreso.php" target="_blank"><button type="button" class="btn hollowBtn" name="button"><i class="fa fa-plus-circle"></i> Ver m&aacute;s</button></a>
 							</div>
 						</div>
 						
