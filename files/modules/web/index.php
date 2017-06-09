@@ -35,7 +35,7 @@
 	<div class="wrapper">
 		<div class="container">
 			<div class="row main-row">
-				<div class="col-md-7">
+				<div class="col-md-12"> <!-- Set class to col-md-7 if sidebar is active -->
 				<!-- /////// CONTENT //////// -->
 					<div class="row home-content-row">
 					<h1>FEDERACI&Oacute;N DE ASOCIACIONES M&Eacute;DICAS HOMEOP&Aacute;TICAS ARGENTINAS</h1>
@@ -52,32 +52,25 @@
 						<img src="../../../skin/web/images/body/pictures/congreso.jpg" alt="" class="img-responsive" />
 					</div>
 					<div class="row">
-						<h4>71 &deg; Congreso LMHI</h4>
-						<h4 class="second-color-txt">Agosto 24 al 27 de 2016 Buenos Aires</h4>
-						<h4 class="second-color-txt">Homeopat&iacute;a, Medicina del Microcosmos</h4>
+
+						<h4>Pr&oacute;ximo Congreso F.A.M.H.A. </h4>
+						<h4 class="second-color-txt">12&deg; Congreso FAMHA 2018</h4>
+						<h4 class="second-color-txt">"Homeopatía, la medicina del nuevo paradigma"</h4>
 						<div class="left-divider"></div>
 						<p>
-							<b>Organiza: Escuela M&eacute;dica Homeop&aacute;tica Argentina "Tom&aacute;s Pablo Paschero"</b> <br>
-							<b>Sede:</b> Scheraton Libertador Hotel | Av. C&oacute;rdoba 690 <br>
-							(1054) Buenos Aires | Argentina
+							<b> Fecha a designar próximamente.</b>
 						</p>
 					</div>
 					<hr>
-
-
-
-
 				<!-- //////// END CONTENT  //////// -->
 				</div><!-- /.col-md-7 -->
 				<!-- SIDEBAR-1 (has col-md-5 inside) -->
-				<?php include('../../../files/includes/inc.web.sidebar.php'); ?>
+				<!-- Activar cuando hayan publicidades o noticias -->
+				<?php // include('../../../files/includes/inc.web.sidebar.php'); ?>
 				<!-- SIDEBAR-1 -->
-
 			</div><!-- row -->
 			<!-- container -->
 		</div>
-
-
 		<div class="container-fluid blue-back-c">
 			<div class="container">
 				<div class="row inner subscribe">
@@ -98,8 +91,7 @@
 		</div>
 		<div class="container">
 			<div class="row main-row">
-				<div class="col-md-7">
-				<!-- //////// SECOND CONTENT //////// -->
+				<!-- <div class="col-md-7">
 					<br>
 					<div class="row img-text-item">
 				    <img src="../../../skin/web/images/body/ads/ads1.jpg" alt=""  class="img-responsive"/>
@@ -119,18 +111,19 @@
 				      Este es el texto descriptivo, tambien deben ser como m&aacute;ximo dos l&iacute;neas
 				    </p>
 				  </div>
-				<!-- //////// /SECOND CONTENT //////// -->
-				</div>
+				</div> -->
 				<!-- SIDEBAR-2 (has col-md-5 inside) -->
-				<?php include('../../../files/includes/inc.web.sidebar2.php'); ?>
+				<?php //include('../../../files/includes/inc.web.sidebar2.php'); ?>
 				<!-- SIDEBAR-2 -->
 			</div>
 		</div>
 		<?php include ('../../../files/includes/inc.web.links.php') ?>
 
 	</div><!-- wrapper -->
-	<?php include ('../../../files/includes/inc.web.contacto.php'); ?>
-	<?php include ('../../../files/includes/inc.web.footer.php'); ?>
-  <?php include ('../../../files/includes/inc.web.scripts.php'); ?>
+	<?php
+		//include ('../../../files/includes/inc.web.contacto.php');
+		include ('../../../files/includes/inc.web.footer.php');
+	  include ('../../../files/includes/inc.web.scripts.php');
+	?>
 	</body>
 </html>

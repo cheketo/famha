@@ -15,38 +15,32 @@
 	<div class="wrapper">
 		<div class="container">
 			<div class="row main-row">
-				<div class="col-md-7">
+				<div class="col-md-12"> <!-- Set class to col-md-7 if sidebar is active -->
 				<!-- /////// CONTENT //////// -->
 					<div class="row home-content-row">
 						<div class="main-titles">
 							<h2>PR&Oacute;XIMOS CONGRESOS</h2>
 						</div>
 						<p>
-							<b>71 &deg; CONGRESO LMHI</b><br>
-							Agosto 24 al 27 de 2016<br>
-							Buenos Aires, Argentina<br>
-							Homeopatia, Medicina del Microcosmos<br><br>
-
-							<b>Organiza:</b> Escuela Médica Homeopática Argentina "Tomás Pablo Paschero"<br>
-							<b>Sede:</b> Sheraton Libertador Hotel<br>
-							Av. Córdoba 690<br>
-							(1054) | Buenos Aires | Argentina<br><br>
-							<b>M&aacute;s informaci&oacute;n:</b><br>
-							<a href="http://lmhi2016.com.ar" target="_blank">http://lmhi2016.com.ar</a><br>
-	        		<a href="http://escuelapaschero.com.ar" target="_blank">http://escuelapaschero.com.ar</a>
+							<b>72&deg; Congreso de la Liga Médica Homeopática Internacional</b><br>
+							14 a 17 de junio de 2017, en Leipzig, Alemania<br><br>
+							<b>Para m&aacute;s informaci&oacute;n: </b><br>
+							<a href="http://www.lmhi-congress-2017.de/" target="_blank">http://www.lmhi-congress-2017.de/</a><br>
 						</p>
 						<hr>
 					</div>
 				<!-- //////// END CONTENT  //////// -->
 				</div><!-- /.col-md-7 -->
 				<!-- SIDEBAR-1 (has col-md-5 inside) -->
-				<?php include('../../../files/includes/inc.web.sidebar.php'); ?>
+				<?php // include('../../../files/includes/inc.web.sidebar.php'); ?>
 				<!-- SIDEBAR-1 -->
 			</div><!-- row -->
 		</div><!-- container -->
 	</div><!-- wrapper -->
-	<?php include ('../../../files/includes/inc.web.contacto.php'); ?>
-	<?php include ('../../../files/includes/inc.web.footer.php'); ?>
-  <?php include ('../../../files/includes/inc.web.scripts.php'); ?>
+	<?php
+	 // include ('../../../files/includes/inc.web.contacto.php');
+		include ('../../../files/includes/inc.web.footer.php');
+		include ('../../../files/includes/inc.web.scripts.php');
+	?>
 	</body>
 </html>

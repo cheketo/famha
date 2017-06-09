@@ -15,13 +15,14 @@
 	<div class="wrapper">
 		<div class="container">
 			<div class="row main-row">
-				<div class="col-md-7">
+				<div class="col-md-12"><!-- Set class to col-md-7 if sidebar is active -->
 				<!-- /////// CONTENT //////// -->
 					<div class="row home-content-row">
 						<div class="main-titles">
 							<h2>Consejo Directivo de la FAMHA</h2>
 							<p class="text-muted">2015-2017</p>
 						</div>
+						<div class="col-md-6">
 							<p><b>Presidente:</b> Silvia Cristina Mercado (AMHA) </br>	<i class="fa fa-envelope small-icon"></i> misterx@fibertel.com.ar<br>	</p>
 							<p><b>Vicepresidente:</b> Myriam Sorbera (CEMHHCba) </br> 	<i class="fa fa-envelope small-icon"></i>  mycrist.11@gmail.com<br></p>
 							<p><b>Secretario:</b> Adolfo Oscar Campanelli (AMHA)<br></p>
@@ -29,7 +30,8 @@
 							<p><b>1&deg; Vocal:</b> Viviana Tachella (AMHA) </br> <i class="fa fa-envelope small-icon"></i> viviana.tachella@gmail.com<br></p>
 							<p><b>2&deg; Vocal:</b> Beatriz Molteni (CEMHHCba) </br> <i class="fa fa-envelope small-icon"></i> beatrizmolteni@hotmail.com<br></p>
 							<p><b>3&deg; Vocal:</b> Matías Lainz (EMHA) </br> <i class="fa fa-envelope small-icon"></i> matiaslainz@yahoo.com</p>
-							<hr>
+						</div>
+						<div class="col-md-6">
 							<b>Vocales Suplentes</b><br>
 							<b>1&deg; Vocal Suplente:</b> Lucas Yraola (AMHA)<br>
 							<b>2&deg; Vocal Suplente:</b> Rosario Magari&ntilde;os (CEMHHCba)<br>
@@ -40,18 +42,21 @@
 							Lorenzo Mendiz&aacute;bal (CEMHHCba)<br>
 						</p>
 						<hr>
+						</div>
 						<a href="memoria_y_balance.php"><button type="button" class="btn btnMain" name="button">Memoria y Balance</button></a>
 					</div>
 				<!-- //////// END CONTENT  //////// -->
 				</div><!-- /.col-md-7 -->
 				<!-- SIDEBAR-1 (has col-md-5 inside) -->
-				<?php include('../../../files/includes/inc.web.sidebar.php'); ?>
+				<?php //include('../../../files/includes/inc.web.sidebar.php'); ?>
 				<!-- SIDEBAR-1 -->
 			</div><!-- row -->
 		</div><!-- container -->
 	</div><!-- wrapper -->
-	<?php include ('../../../files/includes/inc.web.contacto.php'); ?>
-	<?php include ('../../../files/includes/inc.web.footer.php'); ?>
-  <?php include ('../../../files/includes/inc.web.scripts.php'); ?>
+	<?php
+	 // include ('../../../files/includes/inc.web.contacto.php');
+		include ('../../../files/includes/inc.web.footer.php');
+ 	  include ('../../../files/includes/inc.web.scripts.php');
+	?>
 	</body>
 </html>

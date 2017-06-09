@@ -15,7 +15,7 @@
 	<div class="wrapper">
 		<div class="container">
 			<div class="row main-row">
-				<div class="col-md-7">
+				<div class="col-md-12 center-form">
 				<!-- /////// CONTENT //////// -->
 					<div class="row home-content-row">
 						<div class="main-titles">
@@ -49,14 +49,16 @@
 				<!-- //////// END CONTENT  //////// -->
 				</div><!-- /.col-md-7 -->
 				<!-- SIDEBAR-1 (has col-md-5 inside) -->
-				<?php include('../../../files/includes/inc.web.sidebar.php'); ?>
+				<?php // include('../../../files/includes/inc.web.sidebar.php'); ?>
 				<!-- SIDEBAR-1 -->
 			</div><!-- row -->
 		</div><!-- container -->
 		<?php include('../../../files/includes/inc.web.links.php'); ?>
 	</div><!-- wrapper -->
-	<?php include ('../../../files/includes/inc.web.contacto.php'); ?>
-	<?php include ('../../../files/includes/inc.web.footer.php'); ?>
-  <?php include ('../../../files/includes/inc.web.scripts.php'); ?>
+	<?php
+		//include ('../../../files/includes/inc.web.contacto.php');
+		include ('../../../files/includes/inc.web.footer.php');
+  	include ('../../../files/includes/inc.web.scripts.php');
+	?>
 	</body>
 </html>
