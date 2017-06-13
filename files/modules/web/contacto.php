@@ -51,10 +51,11 @@
 				<!-- SIDEBAR-1 (has col-md-5 inside) -->
 				<!--<?php //include('../../../files/includes/inc.web.sidebar2.php'); ?>-->
 				<div class="col-md-3 txC">
+					<h4>Auspiciantes</h4>
 					<div class="ads-column txC">
-						<h4>Auspiciantes</h4>
 						<a href="https://www.facebook.com/farmacias.vassallo/" target="_blank" class="img-text-item2 txC"><img src="../../../skin/web/images/body/ads/bannervassallo.jpg" alt=""  class="img-responsive"/></a>
-						<!--<hr>-->
+						<hr>
+						<a href="http://www.farmaciacaledonia.com.ar" target="_blank" class="img-text-item2 txC"><img src="../../../skin/web/images/body/ads/bannercaledonia.png" alt=""  class="img-responsive"/></a>
 						<!--<a target="_blank" class="img-text-item2 txC"><img src="../../../skin/web/images/body/ads/bannervassallo.jpg" alt=""  class="img-responsive"/></a>-->
 						<!--<hr>-->
 						<!--<a target="_blank" class="img-text-item2 txC"><img src="../../../skin/web/images/body/ads/bannervassallo.jpg" alt=""  class="img-responsive"/></a>-->

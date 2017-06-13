@@ -273,7 +273,9 @@
     border-top: 2px solid #474f6e; }
   
   .ads-column {
-    max-width: 250px;
+    width: 262px;
+    border:1px #CCC solid;
+    padding:5px;
   }
 
 .small-icon {
