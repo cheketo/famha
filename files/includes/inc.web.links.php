@@ -1,7 +1,7 @@
 <div class="container">
   <div class="row other_links">
     <hr>
-    <h4>Otros Links</h4>
+    <!--<h4>Otros Links</h4>-->
     <div class="col-md-3 col-sm-6 col-xs-6 inner">
       <a href="http://amha.org.ar" target="_blank">
         <div class="flex-column">

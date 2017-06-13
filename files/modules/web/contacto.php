@@ -15,7 +15,7 @@
 	<div class="wrapper">
 		<div class="container">
 			<div class="row main-row">
-				<div class="col-md-12 center-form">
+				<div class="col-md-9 center-form">
 				<!-- /////// CONTENT //////// -->
 					<div class="row home-content-row">
 						<div class="main-titles">
@@ -49,7 +49,30 @@
 				<!-- //////// END CONTENT  //////// -->
 				</div><!-- /.col-md-7 -->
 				<!-- SIDEBAR-1 (has col-md-5 inside) -->
-				<?php // include('../../../files/includes/inc.web.sidebar.php'); ?>
+				<!--<?php //include('../../../files/includes/inc.web.sidebar2.php'); ?>-->
+				<div class="col-md-3 txC">
+					<div class="ads-column txC">
+						<h4>Auspiciantes</h4>
+						<a href="https://www.facebook.com/farmacias.vassallo/" target="_blank" class="img-text-item2 txC"><img src="../../../skin/web/images/body/ads/bannervassallo.jpg" alt=""  class="img-responsive"/></a>
+						<!--<hr>-->
+						<!--<a target="_blank" class="img-text-item2 txC"><img src="../../../skin/web/images/body/ads/bannervassallo.jpg" alt=""  class="img-responsive"/></a>-->
+						<!--<hr>-->
+						<!--<a target="_blank" class="img-text-item2 txC"><img src="../../../skin/web/images/body/ads/bannervassallo.jpg" alt=""  class="img-responsive"/></a>-->
+						<!--<hr>-->
+						<!--<a target="_blank" class="img-text-item2 txC"><img src="../../../skin/web/images/body/ads/bannervassallo.jpg" alt=""  class="img-responsive"/></a>-->
+					</div>
+					
+						<!--<a target="_blank"><img src="../../../skin/web/images/body/ads/bannervassallo.jpg" alt=""  class="img-responsive"/></a>-->
+						<!--<a target="_blank"><img src="../../../skin/web/images/body/ads/bannervassallo.jpg" alt=""  class="img-responsive"/></a>-->
+					 	<!--<a target="_blank"><img src="../../../skin/web/images/body/ads/bannervassallo.jpg" alt=""  class="img-responsive"/></a>-->
+					    <!--<h4>Titulo del anuncio</h4>-->
+					    <!--<hr>-->
+					    <!--<p class="inner-text">-->
+					    <!--  Este es el texto de un anuncio lateral. El mismo admite 3 l&iacute;neas. M&aacute;s una direcci&oacute;n abajo.   Este es el texto de un anuncio lateral.-->
+					    <!--</p>-->
+					    <!--<span class="muted-text-italic"><i class="fa fa-phone"></i> Tel&eacute;fono: 011 5454-5454</span>-->
+					  </div>
+				</div>
 				<!-- SIDEBAR-1 -->
 			</div><!-- row -->
 		</div><!-- container -->

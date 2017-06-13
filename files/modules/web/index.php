@@ -47,9 +47,13 @@
 							</div>
 						</div>
 						<div class="col-sm-4 col-xs-12 txC">
-							<h4>Auspiciantes</h4>
-							<div class="ad-div">
-								<a href="https://www.facebook.com/farmacias.vassallo/" target="_blank"><img src="../../../skin/web/images/body/ads/bannervassallo.jpg" class="img-responsive" style="height:17em;" /></a>
+							<div class="ad-bar">
+								<!--<h4>Auspiciantes</h4>-->
+								<!--<div class="ad-div">-->
+								<!--	<a href="https://www.facebook.com/farmacias.vassallo/" target="_blank"><img src="../../../skin/web/images/body/ads/bannervassallo.jpg" class="img-responsive" /></a>-->
+								<!--	<hr>-->
+								<!--	<a href="https://www.facebook.com/farmacias.vassallo/" target="_blank"><img src="../../../skin/web/images/body/ads/bannervassallo.jpg" class="img-responsive" /></a>-->
+								<!--</div>-->
 							</div>
 						</div>
 					</div>
