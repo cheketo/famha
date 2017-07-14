@@ -54,7 +54,9 @@
 					<h4>Auspiciantes</h4>
 					<div class="ads-column txC">
 						<a href="https://www.facebook.com/farmacias.vassallo/" target="_blank" class="img-text-item2 txC"><img src="../../../skin/web/images/body/ads/bannervassallo.jpg" alt=""  class="img-responsive"/></a>
+						<br>
 						<hr>
+						<br>
 						<a href="http://www.farmaciacaledonia.com.ar" target="_blank" class="img-text-item2 txC"><img src="../../../skin/web/images/body/ads/bannercaledonia.png" alt=""  class="img-responsive"/></a>
 						<!--<a target="_blank" class="img-text-item2 txC"><img src="../../../skin/web/images/body/ads/bannervassallo.jpg" alt=""  class="img-responsive"/></a>-->
 						<!--<hr>-->
