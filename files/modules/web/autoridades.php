@@ -23,23 +23,23 @@
 							<p class="text-muted">2015-2017</p>
 						</div>
 						<div class="col-md-6">
-							<p><b>Presidente:</b> Silvia Cristina Mercado (AMHA) </br>	<i class="fa fa-envelope small-icon"></i> misterx@fibertel.com.ar<br>	</p>
-							<p><b>Vicepresidente:</b> Myriam Sorbera (CEMHHCba) </br> 	<i class="fa fa-envelope small-icon"></i>  mycrist.11@gmail.com<br></p>
-							<p><b>Secretario:</b> Adolfo Oscar Campanelli (AMHA)<br></p>
-							<p><b>Tesorero:</b> Eduardo Bitis (EMHA) </br> <i class="fa fa-envelope small-icon"></i> ebitis@gmail.com<br></p>
-							<p><b>1&deg; Vocal:</b> Viviana Tachella (AMHA) </br> <i class="fa fa-envelope small-icon"></i> viviana.tachella@gmail.com<br></p>
-							<p><b>2&deg; Vocal:</b> Beatriz Molteni (CEMHHCba) </br> <i class="fa fa-envelope small-icon"></i> beatrizmolteni@hotmail.com<br></p>
-							<p><b>3&deg; Vocal:</b> Matías Lainz (EMHA) </br> <i class="fa fa-envelope small-icon"></i> matiaslainz@yahoo.com</p>
+							<p><b>Presidente:</b> Dr. Eduardo Bitis (EMHA) </br><i class="fa fa-envelope small-icon"></i> ebitis@gmail.com<br>	</p>
+							<p><b>Vicepresidente:</b> Myriam Sorbera (CEMHHCba) </br><i class="fa fa-envelope small-icon"></i>  mycrist.11@gmail.com<br></p>
+							<p><b>Secretario:</b> Dr. Mario Weisman (EMHA)</p>
+							<p><b>Tesorero:</b> Dra Silvia Mercado (AMHA)</br><i class="fa fa-envelope small-icon"></i> misterx@fibertel.com.ar<br></p>
+							<p><b>1&deg; Vocal:</b> Dr. Héctor Gonzalez (EMHA)</p>
+							<p><b>2&deg; Vocal:</b> Beatriz Molteni (CEMHHCba)</br><i class="fa fa-envelope small-icon"></i> beatrizmolteni@hotmail.com<br></p>
+							<p><b>3&deg; Vocal:</b> Dr. Adolfo Campanelli (AMHA)</p>
 						</div>
 						<div class="col-md-6">
 							<b>Vocales Suplentes</b><br>
-							<b>1&deg; Vocal Suplente:</b> Lucas Yraola (AMHA)<br>
-							<b>2&deg; Vocal Suplente:</b> Rosario Magari&ntilde;os (CEMHHCba)<br>
-							<b>3&deg; Vocal Suplente:</b> Patricia Macagno (EMHA) </br> <i class="fa fa-envelope small-icon"></i> patriciahmacagno@gmail.com<br>
+							<b>1&deg; Vocal Suplente:</b> Dr. Leonardo Bardolla (EMHA)<br>
+							<b>2&deg; Vocal Suplente:</b> Dra. Graciela Fo (CEMHHC)<br>
+							<b>3&deg; Vocal Suplente:</b> Dr. Lucas Yraola (AMHA) </br>
 							<hr>
-							<b>&Oacute;rgano de Fiscalizaci&oacute;n - Revisores de Cuentas</b><br>
-							Eduardo &Aacute;ngel Yahbes (AMHA) </br> <i class="fa fa-envelope small-icon"></i> yahbes@sinectis.com.ar<br>
-							Lorenzo Mendiz&aacute;bal (CEMHHCba)<br>
+							<b>&Oacute;rgano de Fiscalizaci&oacute;n</b><br>
+							<b>Revisora de Cuentas:</b> Dra. Patricia Macagno (EMHA)<br>
+							<b>Revisor de Cuentas Suplente:</b> Lorenzo Mendiz&aacute;bal (CEMHHCba)<br>
 						</p>
 						<hr>
 						</div>

@@ -42,6 +42,8 @@
 						<h3>CONSEJOS DIRECTIVOS</h3>
 						<div class="left-divider"></div>
 						<p>
+						<b>2013-2015:</b> Presidente: Silvia Cristina Mercado. Vicepresidente: Myriam Sorbera. Tesorero: Eduardo Bitis. Secretario: Adolfo Oscar Campanelli. Vocal 1°: Dra. Viviana Tachella. Vocal 2°: Dra. Beatriz Molteni. Vocal 3°: Dr. Mat&iacute;as Lainz. Vocal Suplente 1°: Dr. Lucas Yraola. Vocal Suplente 2°: Dra. Rosario Magari&ntilde;os. Vocal Suplente 3°: Dra. Patricia Macagno. Revisores de Cuentas: Dr. Eduardo &Aacute;ngel Yahbes y Dr. Lorenzo Mendiz&aacute;bal. <br> <br>
+						
 						<b>2013-2015:</b> Presidente: Dra. Mónica Zurchmitten. Vicepresidente: Dra. Silvia Mercado. Tesorera: Dra. Myriam Sorbera. Secretario: Dr. Eduardo Bitis. Vocal 1°: Dra. Beatriz Molteni. Vocal 2°: Dr. Roberto Díaz Campos. Vocal 3°: Dr. Matías Lainz. Vocal Suplente 1°: Dra. Trinidad Mariano. Vocal Suplente 2°: Dra. Viviana Tachella. Vocal Suplente 3°: Dra. Patricia Macagno. Revisores de Cuentas: Dr. Héctor Della Santina y Dr. Eduardo Yahbes. <br> <br>
 
 						<b>2011-2013:</b> Presidente: Dr. Eduardo Bitis. Vicepresidente: Dra. Miriam García de Vallerotto. Tesorera: Dra. Silvia Mercado. Secretario: Dr. Matías Lainz. Vocal 1°: Dra. Alberta Cumaldi. Vocal 2°: Dra. Myriam Sorbera. Vocal 3°: Dr. Gustavo Pirra. Vocal Suplente 1°:  Dra. Florencia Schrager. Vocal Suplente 2°: Lorenzo Mendizábal. Vocal Suplente 3°: Dra. Eva Blaho. Revisores de Cuentas: Dr. Juan Roa y Dr. Adolfo Campanelli. <br> <br>
