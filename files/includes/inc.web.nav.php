@@ -32,7 +32,7 @@
           <li class="<?php echo $currentPage == 'congresos.php' ? 'active' : ''; ?>"><a href="congresos.php">Congresos</a></li>
           <li class="<?php echo $currentPage == 'novedades.php' ? 'active' : ''; ?>"><a href="novedades.php">Novedades</a></li>
           <li class="<?php echo $currentPage == 'contacto.php' ? 'active' : ''; ?>"><a href="contacto.php">Contacto</a></li>
-          <li><a href="http://www.edgardoprado.com/cmh/login.php" target="_blank">Socios CMH</a></li>
+          <!--<li><a href="http://www.edgardoprado.com/cmh/login.php" target="_blank">Socios CMH</a></li>-->
         </ul>
       </div><!-- /.navbar-collapse -->
     </div>
