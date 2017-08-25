@@ -52,6 +52,13 @@
 						</p>
 						</div>
 						<div class="col-md-12">
+							<p><b>Email de contacto:</b> <a href="mailto:cmhomeopatas@gmail.com">cmhomeopatas@gmail.com</a></p>
+							<!--<p><b>Ingreso para socio:</b> Socios CMH</a></p>-->
+						</div>
+						<div class="col-xs-12">
+							<a href="http://www.edgardoprado.com/cmh/login.php" target="_blank"><button class="btn">Ingreso para socios CMH</button></a>
+						</div>
+						<div class="col-md-12">
 							<hr>
 				    	Estimado COLEGA,<br>
 				    	<i>"La &uacute;nica y elevada misi&oacute;n del m&eacute;dico es la de restablecer la salud de los enfermos, que es lo que se denomina curar..."</i><br>
