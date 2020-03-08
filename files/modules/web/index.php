@@ -34,18 +34,29 @@
 					<!--</div>-->
 					<div class="row">
 						<div class="col-sm-8 col-xs-12">
+
 							<div class="row">
-								<h4>Pr&oacute;ximo Congreso F.A.M.H.A. </h4>
-								<img src="../../../skin/web/images/logos/logo_congreso_famha.jpg" alt="Congreso FAMHA" class="img-responsive" style="height:25em;" />
+								<h4>Pr&oacute;ximo Congreso L.M.H.I. </h4>
+								<img src="../../../skin/web/images/logos/sorrento.png" alt="Congreso FAMHA" class="img-responsive" style="background-color:#333;border:5px solid #999;" />
 								<!--<h4 class="second-color-txt">12&deg; Congreso FAMHA 2018</h4>-->
 								<!--<h4 class="second-color-txt">"Homeopatía, la medicina del nuevo paradigma"</h4>-->
 								<p>
-									<b> Del 24 al 27 de Octubre de 2018</b>
+									<!-- <b> En Sorrento, Italia. Del 25 al 28-9-19.</b> -->
 								</p>
-								<div class="left-divider"></div>
-								<a href="http://www.amha.org.ar/files/modules/web/formulario_congreso.php" target="_blank" class="btn btn-primary">Ver m&aacute;s</a>
+								<!-- <div class="left-divider"></div> -->
+								<a href="http://www.lmhi2019.org/" target="_blank" class="btn btn-primary">Ver m&aacute;s</a>
 							</div>
+							<!-- <br>
+							<hr>
+							<br>
+							<div class="row">
+								<h4>Semana de la Homeopatía </h4>
+								<img src="../../../skin/web/images/logos/charlainformativa.jpg" alt="Congreso FAMHA" class="img-responsive" />
+								<a href="http://amha.org.ar/files/modules/web/curso_semana_homeopatia.php" target="_blank" class="btn btn-primary">Ver m&aacute;s</a>
+							</div> -->
+
 						</div>
+
 						<div class="col-sm-4 col-xs-12 txC">
 							<div class="ad-bar">
 								<!--<h4>Auspiciantes</h4>-->
@@ -57,7 +68,7 @@
 							</div>
 						</div>
 					</div>
-					
+
 					<br>
 					<!--<hr>-->
 				<!-- //////// END CONTENT  //////// -->

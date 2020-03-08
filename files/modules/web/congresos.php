@@ -21,20 +21,35 @@
 						<div class="main-titles">
 							<h2>PR&Oacute;XIMOS CONGRESOS</h2>
 						</div>
+
 						<div class="news-item-a">
-							<img src="../../../skin/web/images/logos/logo_congreso_famha.jpg" alt="" />
+							<img src="../../../skin/web/images/logos/charlainformativa.jpg" alt="" />
 							<div class="titles">
-								<h2>12&deg; Congreso FAMHA - Homeopat&iacute;a, paradigma del SXXI</h2>
-								<span>Tenemos el agrado de invitarlo a participar del próximo 12&deg; Congreso FAMHA que se realizar&aacute; del 24 al 27 de Octubre de 2018</span>
+								<h2>Semana de la Homeopatía</h2>
+								<span>Jornadas intensivas. De la teoría a la práctica.</span>
 							</div>
 							<p>
-								El congreso est&aacute; dirigido a todos los home&oacute;patas y alumnos de las diferentes escuelas de Homeopat&iacute;a. Para poder participar, deber&aacute; inscribirse previamente. ¡Inscribi&eacute;ndose antes del 31 de Julio accede a grandes descuentos!
+								Del 2 al 6 de septiembre de 2019, de 9 a 12 y de 14 a 17hs. Disertaciones especiales e intercambios de conocimientos y experiencias.
 							</p>
 							<div class="news-btn">
-								<a href="http://www.amha.org.ar/files/modules/web/formulario_congreso.php" target="_blank"><button type="button" class="btn hollowBtn" name="button"><i class="fa fa-plus-circle"></i> Ver m&aacute;s</button></a>
+								<a href="http://amha.org.ar/files/modules/web/curso_semana_homeopatia.php" target="_blank"><button type="button" class="btn hollowBtn" name="button"><i class="fa fa-plus-circle"></i> Ver m&aacute;s</button></a>
 							</div>
 						</div>
-						
+
+						<div class="news-item-a">
+							<img src="../../../skin/web/images/logos/sorrento.png" alt="" style="background-color:#333;" />
+							<div class="titles">
+								<h2>74° Congreso de la Liga Médica Homeopática Internacional</h2>
+								<span>En Sorrento, Italia. Del 25 al 28-9-19.</span>
+							</div>
+							<p>
+
+							</p>
+							<div class="news-btn">
+								<a href="www.lmhi2019.org" target="_blank"><button type="button" class="btn hollowBtn" name="button"><i class="fa fa-plus-circle"></i> Ver m&aacute;s</button></a>
+							</div>
+						</div>
+
 						<!--<p>-->
 						<!--	<b>12&deg; Congreso FAMHA - Homeopat&iacute;a, paradigma del SXXI</b><br>-->
 						<!--	Del 24 al 27 de Octubre del 2018, en CABA, Argentina<br><br>-->

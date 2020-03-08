@@ -19,14 +19,14 @@
 <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 <link rel="shortcut icon" href="../../../skin/web/images/logos/favicon.png">
 <!-- Bootstrap  -->
-<link rel="stylesheet" href="../../../vendors/bootstrap/bootstrap.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 <!-- Animate.css -->
 <link rel="stylesheet" href="../../../vendors/animate.css">
 <!-- Icons -->
 <link rel="stylesheet" href="../../../vendors/fontawesome/font-awesome.min.css">
 <!-- Slider -->
-<link rel="stylesheet" href="../../../vendors/flex-slider/flexslider.css">
-<!-- Modernizr JS -->
-<script src="../../../vendors/modernizr-2.6.2.min.js"></script>
+<!-- <link rel="stylesheet" href="../../../vendors/flex-slider/flexslider.css"> -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.7.2/flexslider.min.css">
+
 <link rel="stylesheet" href="../../../vendors/bootsnav/bootsnav.css">
 <link rel="stylesheet" href="../../../skin/web/css/webstyles.css">

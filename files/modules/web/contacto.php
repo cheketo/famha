@@ -15,7 +15,7 @@
 	<div class="wrapper">
 		<div class="container">
 			<div class="row main-row">
-				<div class="col-md-9 center-form">
+				<div class="col-md-12 center-form">
 				<!-- /////// CONTENT //////// -->
 					<div class="row home-content-row">
 						<div class="main-titles">
@@ -50,21 +50,21 @@
 				</div><!-- /.col-md-7 -->
 				<!-- SIDEBAR-1 (has col-md-5 inside) -->
 				<!--<?php //include('../../../files/includes/inc.web.sidebar2.php'); ?>-->
-				<div class="col-md-3 txC">
-					<h4>Auspiciantes</h4>
-					<div class="ads-column txC">
-						<a href="https://www.facebook.com/farmacias.vassallo/" target="_blank" class="img-text-item2 txC"><img src="../../../skin/web/images/body/ads/bannervassallo.jpg" alt=""  class="img-responsive"/></a>
+				<!-- <div class="col-md-3 txC"> -->
+					<!-- <h4>Auspiciantes</h4>
+					<div class="ads-column txC"> -->
+						<!-- <a href="https://www.facebook.com/farmacias.vassallo/" target="_blank" class="img-text-item2 txC"><img src="../../../skin/web/images/body/ads/bannervassallo.jpg" alt=""  class="img-responsive"/></a>
 						<br>
 						<hr>
-						<br>
-						<a href="http://www.farmaciacaledonia.com.ar" target="_blank" class="img-text-item2 txC"><img src="../../../skin/web/images/body/ads/bannercaledonia.png" alt=""  class="img-responsive"/></a>
+						<br> -->
+						<!-- <a href="http://www.farmaciacaledonia.com.ar" target="_blank" class="img-text-item2 txC"><img src="../../../skin/web/images/body/ads/bannercaledonia.png" alt=""  class="img-responsive"/></a> -->
 						<!--<a target="_blank" class="img-text-item2 txC"><img src="../../../skin/web/images/body/ads/bannervassallo.jpg" alt=""  class="img-responsive"/></a>-->
 						<!--<hr>-->
 						<!--<a target="_blank" class="img-text-item2 txC"><img src="../../../skin/web/images/body/ads/bannervassallo.jpg" alt=""  class="img-responsive"/></a>-->
 						<!--<hr>-->
 						<!--<a target="_blank" class="img-text-item2 txC"><img src="../../../skin/web/images/body/ads/bannervassallo.jpg" alt=""  class="img-responsive"/></a>-->
-					</div>
-					
+					<!-- </div> -->
+
 						<!--<a target="_blank"><img src="../../../skin/web/images/body/ads/bannervassallo.jpg" alt=""  class="img-responsive"/></a>-->
 						<!--<a target="_blank"><img src="../../../skin/web/images/body/ads/bannervassallo.jpg" alt=""  class="img-responsive"/></a>-->
 					 	<!--<a target="_blank"><img src="../../../skin/web/images/body/ads/bannervassallo.jpg" alt=""  class="img-responsive"/></a>-->
@@ -74,7 +74,7 @@
 					    <!--  Este es el texto de un anuncio lateral. El mismo admite 3 l&iacute;neas. M&aacute;s una direcci&oacute;n abajo.   Este es el texto de un anuncio lateral.-->
 					    <!--</p>-->
 					    <!--<span class="muted-text-italic"><i class="fa fa-phone"></i> Tel&eacute;fono: 011 5454-5454</span>-->
-					  </div>
+					  <!-- </div> -->
 				</div>
 				<!-- SIDEBAR-1 -->
 			</div><!-- row -->

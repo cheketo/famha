@@ -28,27 +28,27 @@
 							<b>Comit&eacute; Ejecutivo</b><br><br>
 
 							<b>Presidente</b><br>
-							Dr. Ra&uacute;l Gustavo Pirra<br>
+							Dra. Patricia Macagno (EMHA)<br>
 							<b>Secretario</b><br>
-							Dra. Alberta Cumaldi<br>
+							Dra. Mónica Moreno Galaud (AMHA)<br>
 							<b>Tesorero</b><br>
-							Dra. Miriam Garc&iacute;a de Valerotto<br><br>
+							Dra. Miriam García de Vallerotto (CEMHH)<br><br>
 
 							<b>Vocales</b><br>
-							<b>Vocal 1&deg;:</b> Dr. Adolfo Campanelli<br>
-							<b>Vocal 2&deg;:</b> Dra. Marta Russo<br>
-							<b>Vocal 3&deg;:</b> Dra. Eliana Rodr&iacute;guez
+							<b>Vocal 1&deg;:</b> Dra. Marta Russo (EMHA)<br>
+							<b>Vocal 2&deg;:</b> Dra. Elena Figari (AMHA)<br>
+							<b>Vocal 3&deg;:</b> Dra. Eliana Rodríguez (CEMHH)
 						</div>
 						<div class="col-md-6">
 							<b>Vocales suplentes</b><br>
-							<b>1&deg;:</b> Dr. Lucas Yraola (AMHA)<br>
-							<b>2&deg;:</b> Dra. Patricia Macagno (EMHA)<br>
-							<b>3&deg;:</b> Dra. Beatriz Molteni (CEMHHCba)<br><br>
+							<b>1&deg;:</b> Dra. Alberta Cumaldi (EMHA)<br>
+							<b>2&deg;:</b> Dr. Adolfo Campanelli (AMHA)<br>
+							<b>3&deg;:</b> Dra. Beatriz Molteni (CEMHH)<br><br>
 
 							<b>Comit&eacute; de &Eacute;tica</b><br>
-							Roque Penna (AMHA)<br>
-							Raquel Machorowski (CEMHHCba)<br>
-							Jorge Marasco (EMHA)
+							Dr. Juan Schaffer (EMHA)<br>
+							Dr. Roque Penna (AMHA)<br>
+							Dra. Raquel Macharowski (CEMHH)
 						</p>
 						</div>
 						<div class="col-md-12">
