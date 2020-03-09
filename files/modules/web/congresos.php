@@ -23,6 +23,35 @@
 						</div>
 
 						<div class="news-item-a">
+							<!-- <img src="../../../skin/web/images/logos/congreso2020.jpeg" alt="" style="background-color:#333;" /> -->
+							<img src="../../../skin/web/images/logos/logo-single.png" alt="" style="overflow:hidden;" />
+							<div class="titles">
+								<h2>13° Congreso de la F.A.M.H.A. 2020</h2>
+								<span>Buenos Aires, Argentina. Del 10/09 al 12/09.</span>
+							</div>
+							<p>
+									Aranceles y más información en: <a href="https://drive.google.com/file/d/1OjYpFn-Jj1B76yjuQ0CE7ZBDqqvCDP3u/view" target="_blank">https://drive.google.com/file/d/1OjYpFn-Jj1B76yjuQ0CE7ZBDqqvCDP3u/view</a>
+							</p>
+							<div class="news-btn">
+								<a href="https://drive.google.com/file/d/1OjYpFn-Jj1B76yjuQ0CE7ZBDqqvCDP3u/view" target="_blank"><button type="button" class="btn hollowBtn" name="button"><i class="fa fa-plus-circle"></i> Ver m&aacute;s</button></a>
+							</div>
+						</div>
+
+						<div class="news-item-a">
+							<img src="../../../skin/web/images/logos/lmhi2020.png" alt="" style="background-color:#0181cb; padding:5px; border:3px solid #333;" />
+							<div class="titles">
+								<h2>75<sup>th</sup> World Congress of Homeopathy</h2>
+								<span>Izmir, Turkey. 24 - 27 June 2020.</span>
+							</div>
+							<p>
+
+							</p>
+							<div class="news-btn">
+								<a href="https://lmhi2020.org" target="_blank"><button type="button" class="btn hollowBtn" name="button"><i class="fa fa-plus-circle"></i> Ver m&aacute;s</button></a>
+							</div>
+						</div>
+
+						<!-- <div class="news-item-a">
 							<img src="../../../skin/web/images/logos/charlainformativa.jpg" alt="" />
 							<div class="titles">
 								<h2>Semana de la Homeopatía</h2>
@@ -48,7 +77,7 @@
 							<div class="news-btn">
 								<a href="www.lmhi2019.org" target="_blank"><button type="button" class="btn hollowBtn" name="button"><i class="fa fa-plus-circle"></i> Ver m&aacute;s</button></a>
 							</div>
-						</div>
+						</div> -->
 
 						<!--<p>-->
 						<!--	<b>12&deg; Congreso FAMHA - Homeopat&iacute;a, paradigma del SXXI</b><br>-->
