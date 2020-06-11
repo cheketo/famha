@@ -23,7 +23,7 @@
           <li class="dropdown">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown">F.A.M.H.A.</a>
             <ul class="dropdown-menu animated fadeOut" style="display: none; opacity: 1;">
-              <li><a href="antecedentes.php">Antecedentes históricos y objetivos</a></li>
+              <!-- <li><a href="antecedentes.php">Antecedentes históricos y objetivos</a></li> -->
               <li><a href="colegio_de_homeopatas.php">Colegio de Médicos Home&oacute;patas</a></li>
               <li><a href="autoridades.php">Autoridades</a></li>
               <li><a href="estatuto.php">Estatuto</a></li>

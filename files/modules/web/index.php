@@ -38,7 +38,7 @@
 							<div class="row">
 								<h4>Pr&oacute;ximo Congreso de la F.A.M.H.A. </h4>
 								<!-- <img src="../../../skin/web/images/logos/sorrento.png" alt="Congreso FAMHA" class="img-responsive" style="background-color:#333;border:5px solid #999;" /> -->
-								<img src="../../../skin/web/images/logos/congreso2020.jpeg" alt="Congreso FAMHA" class="img-responsive" style="background-color:#333;border:5px solid #999;" />
+								<img src="../../../skin/web/images/logos/congreso2020.jpg" alt="Congreso FAMHA" class="img-responsive" style="background-color:#333;border:5px solid #999;" />
 								<!--<h4 class="second-color-txt">12&deg; Congreso FAMHA 2018</h4>-->
 								<!--<h4 class="second-color-txt">"Homeopatía, la medicina del nuevo paradigma"</h4>-->
 								<p>
@@ -46,7 +46,8 @@
 								</p>
 								<!-- <div class="left-divider"></div> -->
 								<!-- <a href="http://www.lmhi2019.org/" target="_blank" class="btn btn-primary">Ver m&aacute;s</a> -->
-								<a href="https://drive.google.com/file/d/1OjYpFn-Jj1B76yjuQ0CE7ZBDqqvCDP3u/view" target="_blank" class="btn btn-primary">Ver m&aacute;s</a>
+								<!-- Programa -->
+								<!-- <a href="https://drive.google.com/file/d/1OjYpFn-Jj1B76yjuQ0CE7ZBDqqvCDP3u/view" target="_blank" class="btn btn-primary">Ver m&aacute;s</a> -->
 							</div>
 							<!-- <br>
 							<hr>
