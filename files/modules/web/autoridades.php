@@ -23,23 +23,28 @@
 							<p class="text-muted">2019-2021</p>
 						</div>
 						<div class="col-md-6">
-							<p><b>Presidente:</b> Dra. Silvia Mercado (AMHA) </br></p>
+							<p><b>Presidente:</b> Dr. Adolfo Campanelli (AMHA) </br></p>
 							<p><b>Vicepresidente:</b> Dra. Myriam Sorbera (CEMHHCba) </br></p>
-							<p><b>Secretario:</b> Dr. Adolfo Campanelli (AMHA)</p>
-							<p><b>Tesorero:</b> Dr. Mario Weisman (EMHA)</br></p>
-							<p><b>1&deg; Vocal:</b> Dra. Julieta Campanelli (AMHA)</p>
-							<p><b>2&deg; Vocal:</b> Dra. Miriam García de Vallerotto (CEMHHCba)</br></p>
-							<p><b>3&deg; Vocal:</b> Dr. Eduardo Bitis (EMHA)</p>
+							<p><b>Secretario:</b> Dra. Patricia Macagno (EMHA)</p>
+							<p><b>Tesorero:</b> Dra. Miriam García de Vallerotto (CEMHH)</br></p>
+							<p><b>1&deg; Vocal:</b> Dra. Elena Figari (AMHA)</p>
+							<p><b>2&deg; Vocal:</b> Dra. Marta Russo (EMHA)</br></p>
+							<p><b>3&deg; Vocal:</b> Dra. Graciela Fó (CEMHH)</p>
 						</div>
 						<div class="col-md-6">
 							<b>Vocales Suplentes</b><br>
-							<b>1&deg; Vocal Suplente:</b> Dr. Lucas Yraola (AMHA)<br>
-							<b>2&deg; Vocal Suplente:</b> Dra. Graciela Fo (CEMHHCba)<br>
-							<b>3&deg; Vocal Suplente:</b> Dra. Patricia Macagno (EMHA) </br>
+							<b>1&deg; Vocal Suplente:</b> Dra. Nadia Reta (AMHA)<br>
+							<b>2&deg; Vocal Suplente:</b> Dra. Alberta Cumaldi (EMHA)<br>
+							<b>3&deg; Vocal Suplente:</b> Dra. Eliana Rodríguez (CEMHH) </br>
 							<hr>
 							<b>&Oacute;rgano de Fiscalizaci&oacute;n</b><br>
 							<b>Revisora de Cuentas:</b> Dr. Roberto Zaldúa (AMHA)<br>
 							<b>Revisor de Cuentas Suplente:</b> Lorenzo Mendiz&aacute;bal (CEMHHCba)<br>
+							<hr>
+							<b>Comit&eacute; de &Eacute;tica</b><br>
+							Dr. Roque Penna (AMHA)<br>
+							Dr. Juan Schaffer (EMHA)<br>
+							Dra. Myriam Sorbera (CEMHH)<br>
 						</p>
 						<hr>
 						</div>
