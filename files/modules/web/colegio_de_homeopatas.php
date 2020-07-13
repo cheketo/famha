@@ -28,27 +28,27 @@
 							<b>Comit&eacute; Ejecutivo</b><br><br>
 
 							<b>Presidente</b><br>
-							Dra. Patricia Macagno (EMHA)<br>
+							Dr. Adolfo Campanelli (AMHA)<br>
 							<b>Secretario</b><br>
-							Dra. Mónica Moreno Galaud (AMHA)<br>
+							Dra. Patricia Macagno (EMHA)<br>
 							<b>Tesorero</b><br>
 							Dra. Miriam García de Vallerotto (CEMHH)<br><br>
 
 							<b>Vocales</b><br>
-							<b>Vocal 1&deg;:</b> Dra. Marta Russo (EMHA)<br>
-							<b>Vocal 2&deg;:</b> Dra. Elena Figari (AMHA)<br>
-							<b>Vocal 3&deg;:</b> Dra. Eliana Rodríguez (CEMHH)
+							<b>Vocal 1&deg;:</b> Dra. Elena Figari (AMHA)<br>
+							<b>Vocal 2&deg;:</b> Dra. Marta Russo (EMHA)<br>
+							<b>Vocal 3&deg;:</b> Dra. Graciela Fó (CEMHH)
 						</div>
 						<div class="col-md-6">
 							<b>Vocales suplentes</b><br>
-							<b>1&deg;:</b> Dra. Alberta Cumaldi (EMHA)<br>
-							<b>2&deg;:</b> Dr. Adolfo Campanelli (AMHA)<br>
-							<b>3&deg;:</b> Dra. Beatriz Molteni (CEMHH)<br><br>
+							<b>1&deg;:</b> Dra. Nadia Reta (AMHA)<br>
+							<b>2&deg;:</b> Dra. Alberta Cumaldi (EMHA)<br>
+							<b>3&deg;:</b> Dra. Eliana Rodríguez (CEMHH)<br><br>
 
 							<b>Comit&eacute; de &Eacute;tica</b><br>
-							Dr. Juan Schaffer (EMHA)<br>
 							Dr. Roque Penna (AMHA)<br>
-							Dra. Raquel Macharowski (CEMHH)
+							Dr. Juan Schaffer (EMHA)<br>
+							Dra. Myriam Sorbera (CEMHH)
 						</p>
 						</div>
 						<div class="col-md-12">
