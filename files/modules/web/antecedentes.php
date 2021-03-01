@@ -66,8 +66,8 @@
 
 						<b>1995-1997:</b> Presidente: Mario Draiman, Vicepresidente: César Luis Cremonini Versorese, Secretario: Eduardo Angel Yahbes, Tesorero: Jorge Marasco, Vocales Titulares: Juan Salomón Schaffer, Miriam Esther García de Vallerotto, Julio Jorge Ambrós, Vocales Suplentes: Alicia Susana Maximilla, Daniel Ángel Altuna, David Milstein, Órgano de Fiscalización: Ariel Moisés Medina, Juan Amadeo Roa. <br> <br>
 						</p>
-						<hr>
-						<a href="memoria_y_balance.php"><button type="button" class="btn btnMain" name="button">Memoria y Balance</button></a>
+						<!-- <hr>
+						<a href="memoria_y_balance.php"><button type="button" class="btn btnMain" name="button">Memoria y Balance</button></a> -->
 					</div>
 				<!-- //////// END CONTENT  //////// -->
 				</div><!-- /.col-md-7 -->
